@@ -1,8 +1,23 @@
 STATIC WEBSITE CREATION
 
-A simple static website created using HTML, CSS
+A static travel website built using HTML and CSS, providing a basic framework for showcasing travel options and booking information.
+
+Features
+
+Search Form: Allows users to input travel details, including destination and dates.
+
+Filters: Enables users to narrow down search results based on price range and bus type.
+
+Results Section: Displays available buses with prices and booking options.
+
+Booking Form: Allows users to input details and confirm bookings.
 
 
 Technologies Used
-* HTML5
-* CSS3
+
+HTML: Provides structure and content for the website.
+
+CSS: Enhances visual styling and layout.
+
+
+Purpose This project demonstrates a basic static website for travel booking, showcasing HTML and CSS skills.
